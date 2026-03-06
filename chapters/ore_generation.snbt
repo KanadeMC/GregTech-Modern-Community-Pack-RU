@@ -89,7 +89,7 @@
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
-			description: ["Стандартная железная жила. It's a good target when you need to replenish your supply."]
+			description: ["Стандартная железная жила. Это хорошая цель когда вам понадобиться пополнить свои запасы."]
 			icon: "gtceu:yellow_limonite_ore"
 			id: "692F4312B3F73FAF"
 			size: 0.9d
@@ -123,16 +123,16 @@
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"This жила is namely one of the few direct sources of Gold in the overworld."
+				"Эта жила одна из малых прямых источников &6Золота&r в &aВерхнем мире&r."
 				""
-				"There are many other sources of Gold in GregTech, but you will likely see better yields of Gold if you obtain it by processing other resources."
+				"Есть несколько источников &6Золота&r в GregTech, но вы вероятнее всего будете получать его при обработке других ресурсов."
 				""
-				"Vanadium Magnetite becomes more useful in &bMV&r, when you will centrifuge out the Vanadium within for Vanadium Steel."
+				"Ванадий Магнетит станет более нужным в &bMV&r, когда вам понадобится центрифугировать его для получения Ванадия для Ванадиевой стали."
 			]
 			icon: "gtceu:magnetite_ore"
 			id: "260E516A219825A2"
 			size: 0.9d
-			subtitle: "Source of Iron, Gold, Vanadium"
+			subtitle: "Источник железа, золота, ванадия"
 			tasks: [
 				{
 					id: "2814C224F95FA845"
@@ -150,21 +150,21 @@
 					type: "item"
 				}
 			]
-			title: "Magnetite"
+			title: "Магнетит"
 			x: 2.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"An excellent Iron-Copper hybrid жила."
+				"Прекрасный гибрид железа и меди."
 				""
-				"Chalcopyrite will play an integral role in the late game, when you're looking to get your hands on some Platinum Group Sludge."
+				"Халькопирит будет играть ключевую роль на поздних этапах, когда вы будете смотреть как получить немного металлов платиновой группы."
 			]
 			icon: "gtceu:pyrite_ore"
 			id: "03FBBA4A693011A8"
 			size: 0.9d
-			subtitle: "Source of Copper, Iron"
+			subtitle: "Источник меди, железа"
 			tasks: [
 				{
 					id: "21D9BE0CDF8D20D0"
@@ -187,21 +187,21 @@
 					type: "item"
 				}
 			]
-			title: "Pyrite"
+			title: "Пирит"
 			x: 3.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"A great жила for the early game. Copper and Tin to make Bronze, Realgar for your first source of Arsenic, and Zeolite for... nothing much."
+				"Отличная жила для ранней игры. Медь и олово для создания Бронзы, реальгар как ваш первый источник мышьяка, и Цеолит для... ничего более."
 				"{@pagebreak}"
-				"&l&3Lore:&r&o As GregTech used to auto-generate its recipes, Zeolite used to electrolyze in batches of 141 dust at a time. Whoops!"
+				"&l&3История:&r&o Когда GregTech генерировал рецепты автоматически, цеолит в электролизере обрабатывался в 141 пыли за рецепт. Упс!"
 			]
 			icon: "gtceu:chalcopyrite_ore"
 			id: "4826DCD2FC457EA5"
 			size: 0.9d
-			subtitle: "Source of Copper, Tin"
+			subtitle: "Источник меди, олова"
 			tasks: [
 				{
 					id: "21B8E250B773443C"
@@ -224,17 +224,17 @@
 					type: "item"
 				}
 			]
-			title: "Chalcopyrite"
+			title: "Халькопирит"
 			x: 4.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
-			description: ["A pure, very rich Tin жила - excellent for early game. You'll be over the moon to find one of these in the &6Steam Age&r."]
+			description: ["Чистая, очень богатая оловом жила - прекрасная для ранних этапов. Вы будете на луне от счастья если найдете такую в &6Паровом веке&r."]
 			icon: "gtceu:cassiterite_ore"
 			id: "3B379794A3030C73"
 			size: 0.9d
-			subtitle: "#1 Source of Tin"
+			subtitle: "Источник олова #1"
 			tasks: [
 				{
 					id: "46C302CBE74092FC"
@@ -247,21 +247,21 @@
 					type: "item"
 				}
 			]
-			title: "Cassiterite"
+			title: "Касситерит"
 			x: 5.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"A decent alternative to the pure Tin жила if you haven't found one yet."
+				"Достойная альтернатива чистой касситеритовой жиле, если вы еще не нашли таковую."
 				""
-				"The other ores are as good as decoration."
+				"Другие руды полезны в виде декораций."
 			]
 			icon: "gtceu:cassiterite_sand_ore"
 			id: "41616C31D9C08648"
 			size: 0.9d
-			subtitle: "Source of Tin"
+			subtitle: "Источник олова"
 			tasks: [
 				{
 					id: "281CC5BB43AB6FBC"
@@ -284,45 +284,45 @@
 					type: "item"
 				}
 			]
-			title: "Cassiterite Sand"
+			title: "Касситеритовый песок"
 			x: 5.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"As an ore, Coal is hardly worth large-scale processing, because there are too many additional steps. required to turn it into usable fuel. It's still good to have some in your back pocket."
+				"Уголь как руда. Вряд ли стоит заниматься его крупномасштабной переработкой, поскольку для превращения в пригодное для использования топливо требуется слишком много дополнительных этапов. Тем не менее, неплохо "
 				""
-				"Just run it through a Furnace."
+				"Просто пожарьте это в печи."
 			]
 			icon: "minecraft:coal_ore"
 			id: "1E27C654E2F6FFF2"
 			size: 0.9d
-			subtitle: "Source of pollution"
+			subtitle: "Источник загрязнения"
 			tasks: [{
 				id: "5FC26FB906B6F0A2"
 				item: "minecraft:coal"
 				type: "item"
 			}]
-			title: "Coal"
+			title: "Уголь"
 			x: 5.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Your only source of Diamond!"
+				"Ваш единственный источник алмазов!"
 				""
-				"Diamond has &6five times more durability&r than Iron for tools. The catch is that you'll need Diamond Plates for some tools, which is gated behind the Cutting Machine."
+				"Алмаз имеет в &65 раз больше прочности&r чем железо, если использовать его для инструментов. Проблема в том что алмазные пластины для некоторых инструментов, которые создаются в резочной машине."
 				""
-				"Diamond and Graphite both electrolyze into a ton of Carbon. Hint, hint..?"
+				"Алмаз и графит оба электролизуются в тонну углерода. Подсказка, подсказка..?"
 				""
-				"&cNote:&r Avoid macerating Diamonds in the early game. Recovering gem dusts into the actual gem cannot be done for a while - and even then, the process is slow and time-consuming..."
+				"&cЗаметка:&r Избегайте измельчения алмазов в ранней игре. Восстановление пылей драгоценностей в обычный вид не будет вам доступно на некоторое время - и даже тогда, процесс будет очень медленным..."
 			]
 			icon: "gtceu:graphite_ore"
 			id: "1B45DB5C85B68182"
 			size: 0.9d
-			subtitle: "Source of Diamond, Carbon"
+			subtitle: "Источник алмаза, углерода"
 			tasks: [
 				{
 					id: "774FD60E5F9C5225"
@@ -340,21 +340,21 @@
 					type: "item"
 				}
 			]
-			title: "Graphite"
+			title: "Графит"
 			x: 5.5d
 			y: 1.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Your one-stop-shop for sources of Chlorine."
+				"Ваш универсальный источник хлора."
 				""
-				"If you're pining after Lithium, note that it can be obtained from Lepidolite Ore Processing."
+				"Если вам нужен литий, знайте, что он получается в процессе переработки лепидолита."
 			]
 			icon: "gtceu:salt_ore"
 			id: "5289D5049A236D55"
 			size: 0.9d
-			subtitle: "Source of Salt, Chlorine, Lithium, Fluorine"
+			subtitle: "Источник соли, хлора, лития, фтора"
 			tasks: [
 				{
 					id: "13B468D35939891B"
@@ -377,16 +377,16 @@
 					type: "item"
 				}
 			]
-			title: "Gamer Rage"
+			title: "Соль"
 			x: 5.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"This жила starts to become notable for its Magnesium output starting in the midgame."
+				"Эта жила становится полезной из-за магния нужного в мидгейме."
 				""
-				"Olivine also has various uses, as it can substitute &aEmerald&r in a couple of recipes."
+				"Оливин так же имеет много применений, так как в некоторых рецептах его можно использовать вместо изумруда."
 			]
 			icon: "gtceu:olivine_ore"
 			id: "7C1B5559A03F6E02"
@@ -414,21 +414,21 @@
 					type: "item"
 				}
 			]
-			title: "Olivine"
+			title: "Оливин"
 			x: 4.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"It's shiny! That's about it!"
+				"Блестяшка!"
 				""
-				"Yeah, you wish you could make jewelry out of it."
+				"Да, ты захочешь делать драгоценности из этого."
 			]
 			icon: "gtceu:red_garnet_ore"
 			id: "178285129CEA9F9F"
 			size: 0.9d
-			subtitle: "Source of Necklaces"
+			subtitle: "Источник украшений"
 			tasks: [
 				{
 					id: "50787547A7F0A72E"
@@ -451,23 +451,23 @@
 					type: "item"
 				}
 			]
-			title: "Garnet"
+			title: "Гранат"
 			x: 3.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Hey, anyone remember Forestry?"
+				"Эй, кто то помнит &lForestry&r?"
 				""
-				"This is pretty much the one жила you want to tap in for Phosphorus - which requires quite a few steps of processing to obtain."
+				"Это практически единственная жила, которая понадобится для получения фосфора, но для его получения требуется довольно много этапов обработки."
 				""
-				"Pyrochlore will eventually become extremely valuable, as it's a good source of Niobium."
+				"Пирохлор со временем станет чрезвычайно ценным ресурсом, поскольку является хорошим источником ниобия."
 			]
 			icon: "gtceu:apatite_ore"
 			id: "70252B72F7728EFD"
 			size: 0.9d
-			subtitle: "Source of Calcium, Phosphorus, Niobium"
+			subtitle: "Источник кальция, фосфора, ниобия"
 			tasks: [
 				{
 					id: "1091719F41C151CE"
@@ -485,21 +485,21 @@
 					type: "item"
 				}
 			]
-			title: "Apatite"
+			title: "Апатит"
 			x: 2.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Your classic Redstone жила."
+				"Классическая &4редстоун&r жила."
 				""
-				"Ruby is very important for the Chromium it contains. You'll quickly discover that you can never have too much Chromium!"
+				"Рубин очень кажный так как содержит хром. Вы быстро обнаружите что хрома много не бывает!"
 			]
 			icon: "minecraft:redstone_ore"
 			id: "2E5A71CED4B01657"
 			size: 0.9d
-			subtitle: "Source of Redstone, Ruby, Chromium, Mercury"
+			subtitle: "Источник редстоуны, рубина, хрома, киновари"
 			tasks: [
 				{
 					id: "2CE255679DBEF5D8"
@@ -517,21 +517,21 @@
 					type: "item"
 				}
 			]
-			title: "Redstone"
+			title: "Редстоун"
 			x: 1.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Both Sapphire variants serve as your primary source of Aluminium until you can unlock other electrolysis recipes in &bMV&r."
+				"Оба варианта сапфира будут служить вам вторым источником аллюминия пока вы не откроете рецепты электролиза в &bMV&r."
 				""
-				"The other two gems are mediocre at best."
+				"В любом случае они оба посредственны."
 			]
 			icon: "gtceu:sapphire_ore"
 			id: "6EFE154D32A2155E"
 			size: 0.9d
-			subtitle: "Source of Aluminium"
+			subtitle: "Источник аллюминия"
 			tasks: [
 				{
 					id: "1318A25CD8DF8CC8"
@@ -554,41 +554,41 @@
 					type: "item"
 				}
 			]
-			title: "Sapphire"
+			title: "Сапфир"
 			x: 0.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"A good source of &6Heavy Oil&r, which is useful for &6Diesel&r setups early on."
+				"Хороший источник &6тяжолого топлива&r, который понадобится для раннего производства &6дизеля&r."
 				""
 				"If you don't want to spend time processing Oilsands through your setup, you can always just &bCentrifuge&r it directly to get the Heavy Oil."
 			]
 			icon: "gtceu:oilsands_ore"
 			id: "7C35B6B0B4CFFEB2"
 			size: 0.9d
-			subtitle: "Source of the American Dream"
+			subtitle: "Источник американской мечты"
 			tasks: [{
 				id: "301C4CD1E47E2D02"
 				item: "gtceu:raw_oilsands"
 				type: "item"
 			}]
-			title: "Oilsands"
+			title: "Нефтеносный песок"
 			x: -0.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"This one's nothing but a meme. It's literally called a Lubricant жила."
+				"Просто смажь это."
 				""
-				"With that being said, Lubricant is always useful for your &eCutting Machines&r to keep your factory running smoothly."
+				"Что ещё сказать, смазка всегда пригодится вам для вашей &eРежущей машины&r для поддержания плавной работы вашего производства."
 			]
 			icon: "gtceu:soapstone_ore"
 			id: "676667089653641C"
 			size: 0.9d
-			subtitle: "Source of Lubricant"
+			subtitle: "Источник смазки"
 			tasks: [
 				{
 					id: "4E280784AE8DC125"
@@ -611,21 +611,21 @@
 					type: "item"
 				}
 			]
-			title: "Soapstone"
+			title: "Мыльный камень"
 			x: -1.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Did you know Lazurite and Sodalite can be used as substitutes for &9Lapis&r in enchanting?"
+				"Знали ли вы что лазурит и содалит могут быть использованы как &9Лазурит&r в зачаровании?"
 				""
-				"Sodalite is the most valuable Ore here, thanks to its useful electrolysis recipe when you get to &bMV&r."
+				"Содалит - одна из самых важных руд тут, спасибо ему за свою пользу в &bMV&r."
 			]
 			icon: "gtceu:lapis_ore"
 			id: "39A58AFE2E0C13EB"
 			size: 0.9d
-			subtitle: "Source of Lapis Lazuli, Aluminium, Sodium, Chlorine"
+			subtitle: "Источник лазурита, аллюминия, натрия, хлора"
 			tasks: [
 				{
 					id: "3E903B26B6E0D98E"
@@ -648,21 +648,21 @@
 					type: "item"
 				}
 			]
-			title: "Lapis"
+			title: "Лазурит"
 			x: -1.5d
 			y: 1.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Pyrolusite is what most people are here for. It smelts directly into Manganese, which you'll be needing in bulk for &6HV&r."
+				"Пиролюзит это то зачем мы все тут. Он напрямую переплавляется в марганец, которого вам нужно будет много в &6HV&r."
 				""
-				"Tantalite will eventually become extremely valuable, thanks to its Niobium byproducts, and its utility when crafting &bSMD Components&r."
+				"Танталит будет иногда становится очень важным, спасибо за содержащийся в нём ниобий, и его полезность в крафте &bSMD Компонентов&r."
 			]
 			icon: "gtceu:pyrolusite_ore"
 			id: "2C75A50B17AA9AF1"
 			size: 0.9d
-			subtitle: "Source of Manganese"
+			subtitle: "Источник марганца"
 			tasks: [
 				{
 					id: "10FC904696261AF3"
@@ -685,17 +685,17 @@
 					type: "item"
 				}
 			]
-			title: "Pyrolusite"
+			title: "Пиролюзит"
 			x: -1.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
-			description: ["The most consistent source of Lead and Silver."]
+			description: ["Самый стабильный источник свинца и серебра."]
 			icon: "gtceu:galena_ore"
 			id: "14587AE142D84E12"
 			size: 0.9d
-			subtitle: "Source of Lead, Silver"
+			subtitle: "Источник свинца и серебра"
 			tasks: [
 				{
 					id: "4E3A072619DD0ADD"
@@ -713,21 +713,21 @@
 					type: "item"
 				}
 			]
-			title: "Galena"
+			title: "Галена"
 			x: -1.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"Your one and only trusty source for Nickel."
+				"Ваш источник никеля."
 				""
-				"Cobalt makes for some pretty decent early-game item pipes too!"
+				"Кобальт будет очень хорош как ресурс для труб!"
 			]
 			icon: "gtceu:nickel_ore"
 			id: "38C955F6CBDD95BD"
 			size: 0.9d
-			subtitle: "Source of Nickel, Cobalt"
+			subtitle: "Источник никеля, кобальта"
 			tasks: [
 				{
 					id: "2B48BE1948B21FA3"
@@ -750,23 +750,23 @@
 					type: "item"
 				}
 			]
-			title: "Nickel"
+			title: "Никель"
 			x: -1.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"A source of Bauxite for your first ever Titanium."
+				"Источник боксита для вашего первого титана."
 				""
-				"Kyanite and Mica decompose into some desirable products if you electrolyze them, but there are definitely better options, so you shouldn't hunt them down if you want their byproducts."
+				"Ционит и слюда перерабатываются в несколько полезных продуктов если вы электролизуете их, но здесь есть несколько более хороших вариантов, так что вы не должны искать его если вы хотите продукты их переработки."
 				""
-				"&8(This жила probably irks your average GTNH player...)&r"
+				"&8(Эта жила вероятно раздражает игроков GT:NH...)&r"
 			]
 			icon: "gtceu:mica_ore"
 			id: "0B4BA438FE7F3640"
 			size: 0.9d
-			subtitle: "Source of Aluminium, Fluorine, Titanium"
+			subtitle: "Источник аллюминия, фтора, титана"
 			tasks: [
 				{
 					id: "7296DE6280CBC6A1"
@@ -789,21 +789,21 @@
 					type: "item"
 				}
 			]
-			title: "Mica"
+			title: "Слюда"
 			x: -0.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["41730E340B3D8EDA"]
 			description: [
-				"The worst Iron жила. It's helpful in the early game, but that's about it."
+				"Худшная железная жила. Она полезна в начале игры, но не более."
 				""
-				"We love you anyway, Mineral Sand жила!"
+				"Мы всеравно тебя любим, жила минерального песка!"
 			]
 			icon: "gtceu:granitic_mineral_sand_ore"
 			id: "5295C4AEFA8417F3"
 			size: 0.9d
-			subtitle: "Source of Iron"
+			subtitle: "Источник железа"
 			tasks: [
 				{
 					id: "0A9878360139CD46"
@@ -826,21 +826,21 @@
 					type: "item"
 				}
 			]
-			title: "Mineral Sand"
+			title: "Минеральный песок"
 			x: 0.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["7CAD6FF241A827F7"]
 			description: [
-				"The de-facto Rare Earth жила for progression in &5EV&r... and onwards."
+				"Монацитная жила для прогресса в &5EV&r... и далее."
 				""
-				"&l&3Lore:&r&o This жила was bugged for quite some time. It's never actually contained any Monazite, and nobody realised (well, nobody brought it up!) for many, many months. Did you notice?"
+				"&l&3История:&r&o Эта жила была забагованной некоторое время. Она никогда не содержала монацит, и никто не понимал этого (Ну, никто об этом не говорил!) на протяжении многих-многих месяцев. Вы вообще заметили?"
 			]
 			icon: "gtceu:netherrack_bastnasite_ore"
 			id: "2171AF09E76A5968"
 			size: 0.9d
-			subtitle: "Source of Rare Earth, Neodymium, Fluorine"
+			subtitle: "Источник монацита, неодима, фтора"
 			tasks: [
 				{
 					id: "7628A17F2E48C5E7"
@@ -858,17 +858,17 @@
 					type: "item"
 				}
 			]
-			title: "Bastnatite"
+			title: "Бастнезит"
 			x: 7.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["7CAD6FF241A827F7"]
-			description: ["Emerald is the useful ore here. It's used in small quantities in &bMV&r, and is a part of the Crystal process for Crystal and Wetware circuits much later on."]
+			description: ["Изумруд самая полезная руда тут. Он будет нужен в маленьких количествах в &bMV&r, и как часть процесса фотолитографии."]
 			icon: "gtceu:netherrack_emerald_ore"
 			id: "594D84730913698A"
 			size: 0.9d
-			subtitle: "Source of Beryllium, Emerald, Thorium"
+			subtitle: "Источник беррилия, изумруда, тория"
 			tasks: [
 				{
 					id: "14C64BEBBC783475"
@@ -886,23 +886,23 @@
 					type: "item"
 				}
 			]
-			title: "Emerald"
+			title: "Изумруд"
 			x: 8.5d
 			y: -4.0d
 		}
 		{
 			dependencies: ["7CAD6FF241A827F7"]
 			description: [
-				"This жила is very rare! Congratulations on stumbling upon one."
+				"Эта жила очень редкая! Поздравляем вас если вы нашли такую."
 				""
-				"&8(Or at least... it should be rare.)&r"
+				"&8(Как минимум... он должен быть редким.)&r"
 				""
-				"View the contents of this жила as \"&7&obasically Molybdenum, and some other stuff&r\". Yeah, Molybdenum is what's important here."
+				"Посмотрите на содержание этой жизы, например \"&7&oобычно молибден, и другие штуки&r\". Да, молибден тут самый важный."
 			]
 			icon: "gtceu:netherrack_molybdenum_ore"
 			id: "63CB3C9F5A61E0C4"
 			size: 0.9d
-			subtitle: "Source of Molybdenum"
+			subtitle: "Источник молибдена"
 			tasks: [
 				{
 					id: "382A7CC243D7042E"
@@ -925,7 +925,7 @@
 					type: "item"
 				}
 			]
-			title: "Molybdenum"
+			title: "Молибден"
 			x: 9.5d
 			y: -4.0d
 		}
@@ -939,7 +939,7 @@
 			icon: "gtceu:netherrack_certus_quartz_ore"
 			id: "517D50E748A129AB"
 			size: 0.9d
-			subtitle: "Source of AE2, Barium"
+			subtitle: "Источник AE2, бария"
 			tasks: [
 				{
 					id: "753C65ED1CA407C7"
@@ -957,7 +957,7 @@
 					type: "item"
 				}
 			]
-			title: "Certus Quartz"
+			title: "Истинный кварц"
 			x: 10.5d
 			y: -3.0d
 		}
